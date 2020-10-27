@@ -1,16 +1,10 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-/* Modify the background color */      
-.navbar-default { 
-    background-color: #1D4350 !important;
-} 
-/* Modify brand and text color */ 
-  
-.navbar-custom .navbar-brand, 
-.navbar-custom .navbar-text { 
-    color: #e9e5e5;; 
-} 
+.logo1 {
+    font-family: cursive;
+    position: float;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    letter-spacing: 0.1em;
+    -webkit-text-fill-color: transparent;
+   
+    text-shadow: 7px 7px #134080, 14px 14px #000000;
+  }

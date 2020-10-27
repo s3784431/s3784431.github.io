@@ -4,3 +4,14 @@
     box-sizing: border-box;
 }
 
+/* Modify the background color */ 
+          
+.navbar-custom { 
+    background-color: #1D4350;; 
+} 
+/* Modify brand and text color */ 
+  
+.navbar-custom .navbar-brand, 
+.navbar-custom .navbar-text { 
+    color: #e9e5e5;; 
+} 

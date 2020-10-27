@@ -5,7 +5,7 @@
 }
 
 /* Modify the background color */      
-.navbar { 
+.navbar-default { 
     background-color: #1D4350 !important;
 } 
 /* Modify brand and text color */ 

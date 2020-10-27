@@ -1,10 +1,11 @@
 .logo1 {
     font-family: 'Poppins', sans-serif;
+    font-weight: bold;
     position: float;
     transform: translate(-50%, -50%);
-    font-size: 15px;
+    font-size: 35px;
     letter-spacing: 0.1em;
     -webkit-text-fill-color: transparent;
    
-    text-shadow: 7px 7px #e9e5e5, 14px 14px #1D4350;
+    text-shadow: 8px 8px #fffdfd, 13px 13px #1D4350;
   }

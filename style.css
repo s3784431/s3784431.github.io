@@ -42,11 +42,6 @@ nav {
     font-size: 14px;
 }
 
-.nav-links a:hover {
-    color: #110f0f;
-    text-transform: uppercase;
-  }
-
 .burger {
     display: none;
     cursor: pointer;

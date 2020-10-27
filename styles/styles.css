@@ -6,8 +6,8 @@
 
 /* Modify the background color */ 
           
-.navbar-custom { 
-    background-color: #1D4350;; 
+.navbar { 
+    background-color: #1D4350 !important;
 } 
 /* Modify brand and text color */ 
   
